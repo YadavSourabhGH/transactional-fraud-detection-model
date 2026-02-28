@@ -4,9 +4,6 @@ venv/
 __pycache__/
 .env
 
-# Model Artifacts (Large files)
-*.pkl
-
 # Notebook data
 transactions-fraud-datasets/
 kaggle.json
