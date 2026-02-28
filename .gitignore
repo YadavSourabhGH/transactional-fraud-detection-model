@@ -1,0 +1,15 @@
+# Python
+venv/
+*.py[cod]
+__pycache__/
+.env
+
+# Model Artifacts (Large files)
+*.pkl
+
+# Notebook data
+transactions-fraud-datasets/
+kaggle.json
+
+# OS
+.DS_Store
