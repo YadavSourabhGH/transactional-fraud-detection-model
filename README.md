@@ -18,7 +18,7 @@ Financial fraud and revenue leakage are critical risks in digital payments. This
 
 ## 📁 Project Structure
 - `fraud_detection.ipynb`: Complete Google Colab notebook for the ML pipeline.
-- `app.py`: Interactive Streamlit dashboard for real-time prediction.
+- `streamlit_app.py`: Interactive Streamlit dashboard for real-time prediction.
 - `requirements.txt`: Python package dependencies.
 - `fraud_model.pkl` & `scaler.pkl`: Trained model artifacts (generated from notebook).
 
@@ -43,7 +43,7 @@ Financial fraud and revenue leakage are critical risks in digital payments. This
 
 4. **Launch the Dashboard**:
    ```bash
-   streamlit run app.py
+   streamlit run streamlit_app.py
    ```
 
 ## 🧪 Interactive Test Cases
